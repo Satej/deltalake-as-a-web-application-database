@@ -13,3 +13,7 @@ pip install -r requirements.txt
 npm i
 sls deploy
 ```
+
+![status quo](./status-quo.png)
+
+![with delta lake in s3](./with-delta-lake-in-s3-as-database.png)
