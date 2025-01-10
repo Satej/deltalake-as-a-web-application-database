@@ -14,6 +14,10 @@ npm i
 sls deploy
 ```
 
+Current state of standard applications
+
 ![status quo](./status-quo.png)
+
+Using delta lake as database for an web application
 
 ![with delta lake in s3](./with-delta-lake-in-s3-as-database.png)
